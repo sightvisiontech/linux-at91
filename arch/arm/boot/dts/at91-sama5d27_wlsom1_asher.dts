@@ -11,7 +11,7 @@
 #include <dt-bindings/input/input.h>
 
 / {
-	model = "Microchip SAMA5D27 WLSOM1 EK";
+	model = "Microchip SAMA5D27 WLSOM1 Asher";
 	compatible = "microchip,sama5d27-wlsom1-asher", "microchip,sama5d27-wlsom1-ek", "microchip,sama5d27-wlsom1", "atmel,sama5d27", "atmel,sama5d2", "atmel,sama5";
 
 	aliases {
